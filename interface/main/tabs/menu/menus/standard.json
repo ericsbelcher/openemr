@@ -1,4 +1,28 @@
 [
+        {
+	"label": "MDCalc",
+	"menu_id": "mdcalc0",
+	"target": "mdc",
+	"url": "/interface/modules/custom_modules/mdcalc_integration/mdcalc.php",
+	"children": [],
+	"requirement": 0
+},
+  {
+	"label": "UpToDate",
+	"menu_id": "uptodate0",
+	"target": "utd",
+	"url": "/interface/modules/custom_modules/uptodate_integration/uptodate.php",
+	"children": [],
+	"requirement": 0
+},
+  {
+	"label": "Open Evidence",
+	"menu_id": "oe0",
+	"target": "oe",
+	"url": "/interface/modules/custom_modules/openevidence_integration/openevidence.php",
+	"children": [],
+	"requirement": 0
+},
   {
     "label": "Calendar",
     "menu_id": "cal0",
